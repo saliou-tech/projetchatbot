@@ -1,0 +1,3 @@
+executez le fichier chatbot.py avec la commande (python chatbot.py)
+Pour tester decommenter la fonction getQuestionQiveAnswer()
+Le modéle est entrainé et loadé directement si vous souhaitez l'entrainer à nouveau decommenter la partie trainning 
